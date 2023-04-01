@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "artstr.h"
 #include <string.h>
 
 struct elem
